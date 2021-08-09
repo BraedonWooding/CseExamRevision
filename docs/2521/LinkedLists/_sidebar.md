@@ -1,0 +1,21 @@
+- [Introduction](_introduction)
+- **Tutorials**
+- [`listIsOrdered`](2521/LinkedLists/listIsOrdered.md)
+- [`listDeleteLargest`](2521/LinkedLists/listDeleteLargest.md)
+- [`listIsPalindromic`](2521/LinkedLists/listIsPalindromic.md)
+- [`listSetDifference`](2521/LinkedLists/listSetDifference.md)
+- [`listSetIntersection`](2521/LinkedLists/listSetIntersection.md)
+- [`listSetUnion`](2521/LinkedLists/listSetUnion.md)
+- [`numDupesInOrderedList`](2521/LinkedLists/numDupesInOrderedList.md)
+- [`reverseDLList`](2521/LinkedLists/reverseDLList.md)
+- [`reverseList`](2521/LinkedLists/reverseList.md)
+- **Useful Links**
+- [BigO Tool](BigOh)
+- [Blackboard Collaborate Recordings](Blackboard)
+- [Home Computing](home_computing)
+- [GDB + Valgrind](gdb_valgrind)
+- [String Algos](StringAlgos/StringAlgos)
+- [My Bit Math Program](https://braedonwooding.github.io/BitwiseCmpViz/#/)
+- [Tree Implementations](Detailed_TreeImplementations/Detailed_TreeImplementations.md)
+- **Github Stuff**
+- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/BraedonWooding/CseExamRevision)
