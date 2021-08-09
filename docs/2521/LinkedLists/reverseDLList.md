@@ -4,7 +4,7 @@ Your task is to write a function, reverseDLList, that reverses a given doubly li
 
 ## Download
 
-[Click here to download a zip of the files](2521/LinkedLists/reverseDLList.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/LinkedLists/reverseDLList.zip ':ignore')
 
 ## The Files
 

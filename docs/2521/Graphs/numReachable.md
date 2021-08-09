@@ -4,7 +4,7 @@ Your task is to write a function, numReachable, that returns the number of verti
 
 ## Download
 
-[Click here to download a zip of the files](2521/Graphs/numReachable.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Graphs/numReachable.zip ':ignore')
 
 ### The Files
 

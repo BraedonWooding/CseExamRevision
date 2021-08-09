@@ -4,7 +4,7 @@ Your task is to write a function, BSTreeNodeDepth, that returns the depth of the
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/BSTreeNodeDepth.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/BSTreeNodeDepth.zip ':ignore')
 
 ### The Files
 

@@ -4,7 +4,7 @@ Your task is to write a function, BSTreeInsert, that inserts a given value into 
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/BSTreeInsert.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/BSTreeInsert.zip ':ignore')
 
 ### The Files
 

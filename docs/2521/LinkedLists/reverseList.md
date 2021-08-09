@@ -4,7 +4,7 @@ Your task is to write a function, reverseList, that reverses a given singly link
 
 ## Download
 
-[Click here to download a zip of the files](2521/LinkedLists/reverseList.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/LinkedLists/reverseList.zip ':ignore')
 
 ## The Files
 -list.c	Contains the implementation of basic list functions

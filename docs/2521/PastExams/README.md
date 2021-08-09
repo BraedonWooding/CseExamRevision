@@ -6,16 +6,16 @@ The exams have changed a *LOT* over the past few years (content removed mostly),
 
 This one is probably the *best* of the three.
 
-[Download the file here](2521/PastExams/18s1_1.zip ':ignore')
+[Download the file here](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/PastExams/18s1_1.zip ':ignore')
 
 ## 2014
 
-[Download the questions here](2521/PastExams/14s2_questions.zip ':ignore')
+[Download the questions here](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/PastExams/14s2_questions.zip ':ignore')
 
-[Download the files here](2521/PastExams/14s2_files.zip ':ignore')
+[Download the files here](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/PastExams/14s2_files.zip ':ignore')
 
 ## 2013
 
-[Download the questions here](2521/PastExams/13s2_questions.zip ':ignore')
+[Download the questions here](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/PastExams/13s2_questions.zip ':ignore')
 
-[Download the files here](2521/PastExams/13s2_files.zip ':ignore')
+[Download the files here](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/PastExams/13s2_files.zip ':ignore')

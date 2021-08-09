@@ -4,7 +4,7 @@ Your task is to write a function, BSTreePostfix, that prints out the values of t
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/BSTreePostfix.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/BSTreePostfix.zip ':ignore')
 
 ### The Files
 

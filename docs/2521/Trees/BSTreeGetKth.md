@@ -4,7 +4,7 @@ Your task is to write a function, BSTreeGetKth, that returns the k'th smallest v
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/BSTreeGetKth.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/BSTreeGetKth.zip ':ignore')
 
 ### The Files
 

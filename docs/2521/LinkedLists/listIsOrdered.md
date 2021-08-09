@@ -4,7 +4,7 @@ Your task is to write a function, listIsOrdered, that determines whether a linke
 
 ## Download
 
-[Click here to download a zip of the files](2521/LinkedLists/listIsOrdered.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/LinkedLists/listIsOrdered.zip ':ignore')
 
 The Files
 - list.c	Contains the implementation of basic list functions

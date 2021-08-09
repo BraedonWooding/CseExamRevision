@@ -4,7 +4,7 @@ Your task is to write a function, BSTreeGetSmallest, that returns a pointer to t
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/BSTreeGetSmallest.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/BSTreeGetSmallest.zip ':ignore')
 
 ### The Files
 

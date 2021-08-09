@@ -4,7 +4,7 @@ Your task is to write a function, TreeSumOdds, that returns the sum of all of th
 
 ## Download
 
-[Click here to download a zip of the files](2521/Trees/TreeSumOdds.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Trees/TreeSumOdds.zip ':ignore')
 
 ### The Files
 

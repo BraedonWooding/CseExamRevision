@@ -6,7 +6,7 @@ Hint: You are not provided with a stack ADT, so you must use recursion.
 
 ## Download
 
-[Click here to download a zip of the files](2521/Graphs/depthFirstSearch.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Graphs/depthFirstSearch.zip ':ignore')
 
 ### The Files
 

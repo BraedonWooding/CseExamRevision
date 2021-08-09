@@ -4,7 +4,7 @@ Your task is to write a function, furthestReachable, that returns the furthest v
 
 ## Download
 
-[Click here to download a zip of the files](2521/Graphs/furthestReachable.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Graphs/furthestReachable.zip ':ignore')
 
 ### The Files
 

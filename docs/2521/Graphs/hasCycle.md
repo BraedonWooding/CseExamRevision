@@ -6,7 +6,7 @@ Note: You are provided with a stack ADT, but you are not required to make use of
 
 ## Download
 
-[Click here to download a zip of the files](2521/Graphs/hasCycle.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Graphs/hasCycle.zip ':ignore')
 
 ### The Files
 

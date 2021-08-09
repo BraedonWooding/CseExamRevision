@@ -4,7 +4,7 @@ Your task is to write a function, listSetIntersection, that takes two lists repr
 
 ## Download
 
-[Click here to download a zip of the files](2521/LinkedLists/listSetIntersection.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/LinkedLists/listSetIntersection.zip ':ignore')
 
 ### The Files
 

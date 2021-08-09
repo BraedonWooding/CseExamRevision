@@ -4,7 +4,7 @@ Your task is to write a function, shortestDistance, that returns the number of e
 
 ## Download
 
-[Click here to download a zip of the files](2521/Graphs/shortestDistance.zip ':ignore')
+[Click here to download a zip of the files](https://github.com/BraedonWooding/CseExamRevision/raw/main/docs/2521/Graphs/shortestDistance.zip ':ignore')
 
 ### The Files
 
