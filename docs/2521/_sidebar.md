@@ -3,6 +3,7 @@
 - [Linked Lists](2521/LinkedLists/)
 - [Graphs](2521/Graphs/)
 - [Trees](2521/Trees/)
+- [Past Exams](2521/PastExams/)
 - **Useful Links**
 - [BigO Tool](BigOh)
 - [Blackboard Collaborate Recordings](Blackboard)
